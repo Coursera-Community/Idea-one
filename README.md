@@ -5,7 +5,7 @@ It would be great if all the Coursera Mentors added in this organization can pos
 
 And all the learners who are enrolled in Coursera Courses are advised to do the same by informing their Mentors to collaborate with them to build something cool in this organization itself.
 
-And all the other members of the organization who are neither Mentors, learners can help in resolving issues raised by learners & Mentors while building an application that they are following in the course they are enrolled in and other members can even help in reviewing pull requests.
+And all the other members of the organization who are neither Mentors, learners can help in resolving issues raised by learners & Mentors while building an application that they are following in the course they are enrolled in, Mentors and learners can also build something awesome by deciding among themselves and other members can even help in reviewing pull requests.
 
 Other Members can pitch thier own idea to make Coursera a better place to learn and to extend education via Coursera by leveraging Coursera open-source community build by Coursera Mentors.
 
